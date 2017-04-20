@@ -12,8 +12,8 @@ public class ExtractDB {
     public final static String sdkLocation = "/Users/abhishek.ramkrishna/Library/Android/sdk";
     public final static String platformToolsLocation = sdkLocation + "/platform-tools";
     public final static String workingDir = "/Users/abhishek.ramkrishna/Desktop";
-    public final static String Storage_Dir_1_5 = "/Users/abhishek.ramkrishna/Desktop/databases/1.5";
-    public final static String Storage_Dir_2_0 = "/Users/abhishek.ramkrishna/Desktop/databases/2.0";
+    public final static String Storage_Dir_1_5 = workingDir+"/databases/1.5";
+    public final static String Storage_Dir_2_0 = workingDir+"/databases/2.0";
     public final static String SNAPBILLING_1_5_LOCAL_DB = "/data/data/com.snapbizz.snapbilling/databases/SnapBizz.db";
     public final static String SNAPBILLING_2_0_LOCAL_DB = "/data/data/com.snapbizz.snapbillingv2/databases/snapbizzv2.db";
     public final static String SNAPBILLING_2_0_GLOABL_DB = "/data/data/com.snapbizz.snapbillingv2/databases/global.db";
